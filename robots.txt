@@ -1,4 +1,5 @@
 User-agent: *
 Allow: /
+Disallow: /private/
 
 Sitemap: https://crowleycoofficial-ops.github.io/rapport-aaro-2024/sitemap.xml

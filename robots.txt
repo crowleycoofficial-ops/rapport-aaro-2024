@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://crowleycoofficial-ops.github.io/rapport-aaro-2024/sitemap.xml
